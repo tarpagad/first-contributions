@@ -1,6 +1,5 @@
 # Additional information
-Nous partons du principe que vous avez déjà lu le tutoriel basique avant de vous rendre ici. Ce document vous donnera des informations complémentaires
-sur les techniques avancées de Git.
+Nous partons du principe que vous avez déjà lu le tutoriel basique avant de vous rendre ici. Ce document vous donnera des informations complémentaires sur les techniques avancées de Git.
 
 ### [Modifier un commit](amending-a-commit.md)
 Cette page vous donnera les informations dont vous avez besoin pour modifier un commit sur un répertoire distant :
@@ -19,7 +18,7 @@ Cette page vous donnera les informations dont vous avez besoin pour déplacer un
 > Suivez ces étapes pour déplacer un Commit vers une Branche différente.
 
 ### [Supprimer un Fichier](removing-a-file.md)
-Cette page vous donnera les informations dont vous avez besoin pour supprimer un Fichier depuis votre répertoire local :
+Cette page vous donnera les informations dont vous avez besoin pour supprimer un fichier depuis votre répertoire local :
 > Suivez ces étapes pour apprendre comment supprimer un fichier avant d'effectuer un commit. 
 
 ### [Supprimer une branche dans votre répertoire](removing-branch-from-your-repository.md)

@@ -28,11 +28,11 @@ Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton cl
 Ouvrez un invite de commande et exécutez les commandes git suivantes :
 
 ```
-git clone "l'url que vous venez de copier"
+git clone "l'URL que vous venez de copier"
 ```
-où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url.
+où "l'URL que vous venez de copier" (sans les guillemets) est l'URL du répertoire. Voir la section précédente afin d'obtenir l'URL.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Copier l'URL dans le presse-papier" />
 
 Par exemple :
 ```
@@ -109,11 +109,11 @@ Ceci est une manière de dire à git qu'une autre version de ce répertoire exis
 git fetch upstream
 ```
 
-Ici nous cherchons toutes les modification dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
+Ici nous cherchons toutes les modifications dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
 ```
 git rebase upstream/master
 ```
-Ici nous appliquons toutes les modifications que vous avez cherché à la branche master. Si vous poussez la branche master maintenant, votre embranchement aussi aura les modifications :
+Ici nous appliquons toutes les modifications que vous avez cherchées à la branche master. Si vous poussez la branche master maintenant, votre embranchement aussi aura les modifications :
 ```
 git push origin master
 ```
